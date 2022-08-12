@@ -1,4 +1,4 @@
-function gluc_mm_mle2012
+function gluc_mm_mle
 % Maximum Likelihood Estimation of minimal model of glucose kinetics.
 
 %Requires the Optimization Toolbox. 
